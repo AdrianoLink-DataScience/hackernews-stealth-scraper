@@ -1,0 +1,91 @@
+data_coleta,titulo,url,origem
+2025-12-14 05:51:43,Surface Tension of Software,https://iamstelios.com/blog/surface-tension-of-software/,HackerNews
+2025-12-14 05:51:43,Linux Sandboxes and Fil-C,https://fil-c.org/seccomp,HackerNews
+2025-12-14 05:51:43,Using e-ink tablet as monitor for Linux,https://alavi.me/blog/e-ink-tablet-as-monitor-linux/,HackerNews
+2025-12-14 05:51:43,I fed 24 years of my blog posts to a Markov model,https://susam.net/fed-24-years-of-posts-to-markov-model.html,HackerNews
+2025-12-14 05:51:43,Recovering Anthony Bourdain's Li.st's,https://sandyuraz.com/blogs/bourdain/,HackerNews
+2025-12-14 05:51:43,I tried Gleam for Advent of Code,https://blog.tymscar.com/posts/gleamaoc2025/,HackerNews
+2025-12-14 05:51:43,Cat Gap,https://en.wikipedia.org/wiki/Cat_gap,HackerNews
+2025-12-14 05:51:43,Closures as Win32 Window Procedures,https://nullprogram.com/blog/2025/12/12/,HackerNews
+2025-12-14 05:51:43,An Implementation of J (1992),https://www.jsoftware.com/ioj/ioj.htm,HackerNews
+2025-12-14 05:51:43,Lean theorem prover mathlib,https://github.com/leanprover-community/mathlib4,HackerNews
+2025-12-14 05:51:43,No-Tifier (2017),https://subject.space/projects/no-tifier/,HackerNews
+2025-12-14 05:51:43,"If a Meta AI model can read a brain-wide signal, why wouldn't the brain?",https://1393.xyz/writing/if-a-meta-ai-model-can-read-a-brain-wide-signal-why-wouldnt-the-brain,HackerNews
+2025-12-14 05:51:43,Twins reared apart do not exist,https://davidbessis.substack.com/p/twins-reared-apart-do-not-exist,HackerNews
+2025-12-14 05:51:43,Mystery Science Theater 3000: The Definitive Oral History of a TV Masterpiece,https://www.wired.com/2014/04/mst3k-oral-history/,HackerNews
+2025-12-14 05:51:43,"The Rise of Computer Games, Part I: Adventure",https://technicshistory.com/2025/12/13/the-rise-of-computer-games-part-i-adventure/,HackerNews
+2025-12-14 05:51:43,VPN location claims don't match real traffic exits,https://ipinfo.io/blog/vpn-location-mismatch-report,HackerNews
+2025-12-14 05:51:43,Useful patterns for building HTML tools,https://simonwillison.net/2025/Dec/10/html-tools/,HackerNews
+2025-12-14 05:51:43,"Bye, Mom",https://aella.substack.com/p/bye-mom,HackerNews
+2025-12-14 05:51:43,Heavy metal is healing teens on the Blackfeet Nation,https://www.hcn.org/issues/57-11/heavy-metal-is-healing-teens-on-the-blackfeet-nation/,HackerNews
+2025-12-14 05:51:43,Go Proposal: Secret Mode,https://antonz.org/accepted/runtime-secret/,HackerNews
+2025-12-14 05:51:43,"An off-grid, flat-packable washing machine",https://www.positive.news/society/flat-pack-washing-machine-spins-a-fairer-future/,HackerNews
+2025-12-14 05:51:43,Why Twilio Segment moved from microservices back to a monolith,https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices,HackerNews
+2025-12-14 05:51:43,Ask HN: How can I get better at using AI for programming?,item?id=46255285,HackerNews
+2025-12-14 05:51:43,Cryptids,https://wiki.bbchallenge.org/wiki/Cryptids,HackerNews
+2025-12-14 05:51:43,Dhtml Lemmings (2004),https://www.elizium.nu/scripts/lemmings/index.php,HackerNews
+2025-12-14 05:51:43,From Azure Functions to FreeBSD,https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html,HackerNews
+2025-12-14 05:51:43,Using Python for Scripting,https://hypirion.com/musings/use-python-for-scripting,HackerNews
+2025-12-14 05:51:43,Researchers seeking better measures of cognitive fatigue,https://www.nature.com/articles/d41586-025-03974-w,HackerNews
+2025-12-14 05:51:43,Create a Markdown Editor in Ruby on Rails,https://blog.appsignal.com/2025/12/10/create-a-markdown-editor-in-ruby-on-rails.html,HackerNews
+2025-12-14 05:51:43,What is the nicest thing a stranger has ever done for you?,https://louplummer.lol/nice-stranger/,HackerNews
+2025-12-14 05:51:51,Photographer built a medium-format rangefinder,https://petapixel.com/2025/12/06/this-photographer-built-an-awesome-medium-format-rangefinder-and-so-can-you/,HackerNews
+2025-12-14 05:51:51,Awesome-Jj: Jujutsu Things,https://github.com/Necior/awesome-jj,HackerNews
+2025-12-14 05:51:51,"Branch, Test, Deploy: A Git-Inspired Approach for Data",https://motherduck.com/blog/git-for-data-part-1/,HackerNews
+2025-12-14 05:51:51,Is P=NP?,https://adlrocha.substack.com/p/adlrocha-is-nnp,HackerNews
+2025-12-14 05:51:51,Some surprising things about DuckDuckGo,https://gabrielweinberg.com/p/some-surprising-things-about-duckduckgo,HackerNews
+2025-12-14 05:51:51,EasyPost (YC S13) Is Hiring,https://www.easypost.com/careers,HackerNews
+2025-12-14 05:51:51,"OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",https://simonwillison.net/2025/Dec/12/openai-skills/,HackerNews
+2025-12-14 05:51:51,A Lisp Interpreter Implemented in Conway's Game of Life (2021),https://woodrush.github.io/blog/posts/2022-01-12-lisp-in-life.html,HackerNews
+2025-12-14 05:51:51,Auto-grading decade-old Hacker News discussions with hindsight,https://karpathy.bearblog.dev/auto-grade-hn/,HackerNews
+2025-12-14 05:51:51,"Free Software Awards Winners Announced: Andy Wingo, Alx Sa, Govdirectory",https://www.fsf.org/news/2024-free-software-awards-winners,HackerNews
+2025-12-14 05:51:51,“You should never build a CMS”,https://www.sanity.io/blog/you-should-never-build-a-cms,HackerNews
+2025-12-14 05:51:51,"Go is portable, until it isn't",https://simpleobservability.com/blog/go-portable-until-isnt,HackerNews
+2025-12-14 05:51:51,Emulating AVX-512 intrinsics in Miri,https://trifectatech.org/blog/emulating-avx-512-intrinsics-in-miri/,HackerNews
+2025-12-14 05:51:51,Sick of smart TVs? Here are your best options,https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/,HackerNews
+2025-12-14 05:51:51,Freeing a Xiaomi humidifier from the cloud,https://0l.de/blog/2025/11/xiaomi-humidifier/,HackerNews
+2025-12-14 05:51:51,Will West Coast Jazz Get Some Respect?,https://www.honest-broker.com/p/will-west-coast-jazz-finally-get,HackerNews
+2025-12-14 05:51:51,Computer animator and Amiga fanatic Dick van Dyke turns 100,item?id=46252993,HackerNews
+2025-12-14 05:51:51,Formula One Handovers and Handovers From Surgery to Intensive Care (2008) [pdf],https://gwern.net/doc/technology/2008-sower.pdf,HackerNews
+2025-12-14 05:51:51,Ensuring a National Policy Framework for Artificial Intelligence,https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/,HackerNews
+2025-12-14 05:51:51,macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt,https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt,HackerNews
+2025-12-14 05:51:51,Are we stuck with the same Desktop UX forever? [video],https://www.youtube.com/watch?v=1fZTOjd_bOQ,HackerNews
+2025-12-14 05:51:51,30 Years of <Br> Tags,https://www.artmann.co/articles/30-years-of-br-tags,HackerNews
+2025-12-14 05:51:51,50 years of proof assistants,https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html,HackerNews
+2025-12-14 05:51:51,How exchanges turn order books into distributed logs,https://quant.engineering/exchange-order-book-distributed-logs.html,HackerNews
+2025-12-14 05:51:51,TigerBeetle as a File Storage,https://aivarsk.com/2025/12/07/tigerbeetle-blob-storage/,HackerNews
+2025-12-14 05:51:51,Beautiful Abelian Sandpiles,https://eavan.blog/posts/beautiful-sandpiles.html,HackerNews
+2025-12-14 05:51:51,1 html search engine,https://k8o5.github.io/search,HackerNews
+2025-12-14 05:51:51,Indexing 100M vectors in 20 minutes on PostgreSQL with 12GB RAM,https://blog.vectorchord.ai/how-we-made-100m-vector-indexing-in-20-minutes-possible-on-postgresql,HackerNews
+2025-12-14 05:51:51,Workday project at Washington University hits $266M,https://www.theregister.com/2025/12/12/washington_university_workday_costs_revealed/,HackerNews
+2025-12-14 05:51:51,A 'toaster with a lens': The story behind the first handheld digital camera,https://www.bbc.com/future/article/20251205-how-the-handheld-digital-camera-was-born,HackerNews
+2025-12-14 05:52:00,Slax: Live Pocket Linux,https://www.slax.org/,HackerNews
+2025-12-14 05:52:00,Poor Johnny still won't encrypt,https://bfswa.substack.com/p/poor-johnny-still-wont-encrypt,HackerNews
+2025-12-14 05:52:00,Dynamic Pong Wars,https://markodenic.tech/dynamic-pong-wars/,HackerNews
+2025-12-14 05:52:00,Oliver Sacks put himself into his case studies. What was the cost?,https://www.newyorker.com/magazine/2025/12/15/oliver-sacks-put-himself-into-his-case-studies-what-was-the-cost,HackerNews
+2025-12-14 05:52:00,Show HN: I'm building an open-source Amazon,https://openship.org,HackerNews
+2025-12-14 05:52:00,Windows 3.1 in the Browser,https://www.pcjs.org/software/pcx86/sys/windows/3.10/,HackerNews
+2025-12-14 05:52:00,Pg_ClickHouse: A Postgres extension for querying ClickHouse,https://clickhouse.com/blog/introducing-pg_clickhouse,HackerNews
+2025-12-14 05:52:00,"Show HN: Listened to your feedback, Critical CSS Generator",https://kigo.studio/tools/critical-css-generator,HackerNews
+2025-12-14 05:52:00,CM0 – A new Raspberry Pi you can't buy,https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy,HackerNews
+2025-12-14 05:52:00,Obscuring P2P Nodes with Dandelion,https://www.johndcook.com/blog/2025/12/08/dandelion/,HackerNews
+2025-12-14 05:52:00,Capsudo: Rethinking sudo with object capabilities,https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html,HackerNews
+2025-12-14 05:52:00,Java FFM zero-copy transport using io_uring,https://www.mvp.express/,HackerNews
+2025-12-14 05:52:00,GPT-5.2,https://openai.com/index/introducing-gpt-5-2/,HackerNews
+2025-12-14 05:52:00,Size of Life,https://neal.fun/size-of-life/,HackerNews
+2025-12-14 05:52:00,Fedora: Open-source repository for long-term digital preservation,https://fedorarepository.org/,HackerNews
+2025-12-14 05:52:00,"He set out to walk around the world. After 27 years, his quest is nearly over",https://www.washingtonpost.com/lifestyle/2025/12/05/karl-bushby-walk-around-world/,HackerNews
+2025-12-14 05:52:00,4 billion if statements (2023),https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html,HackerNews
+2025-12-14 05:52:00,From text to token: How tokenization pipelines work,https://www.paradedb.com/blog/when-tokenization-becomes-token,HackerNews
+2025-12-14 05:52:00,Rocket Lab – 'Raise and Shine' Launch for JAXA [video],https://www.youtube.com/watch?v=cMP328yoUu4,HackerNews
+2025-12-14 05:52:00,Therapeutic use of cannabis and cannabinoids: A review,https://jamanetwork.com/journals/jama/fullarticle/2842072?guestAccessKey=a368e622-e374-4a0c-8d3b-22a976500305,HackerNews
+2025-12-14 05:52:00,Async DNS,https://flak.tedunangst.com/post/async-dns,HackerNews
+2025-12-14 05:52:00,"Apple has locked my Apple ID, and I have no recourse. A plea for help",https://hey.paris/posts/appleid/,HackerNews
+2025-12-14 05:52:00,The Checkerboard,https://99percentinvisible.org/episode/650-the-checkerboard/,HackerNews
+2025-12-14 05:52:00,Rats Play DOOM,https://ratsplaydoom.com/,HackerNews
+2025-12-14 05:52:00,Google removes Sci-Hub domains from U.S. search results due to dated court order,https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/,HackerNews
+2025-12-14 05:52:00,"Show HN: LinkedQL – Live Queries over Postgres, MySQL, MariaDB",https://github.com/linked-db/linked-ql,HackerNews
+2025-12-14 05:52:00,GNU Unifont,https://unifoundry.com/unifont/index.html,HackerNews
+2025-12-14 05:52:00,First all-optical XPU processing system,https://www.akhetonics.com/,HackerNews
+2025-12-14 05:52:00,Hacking Google Chrome Source Code: Make Puppeteer work over Redis PubSub,https://www.deadf00d.com/post/chromium-pub-sub-redis.html,HackerNews
+2025-12-14 05:52:00,"Home Depot GitHub token exposed for a year, granted access to internal systems",https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/,HackerNews

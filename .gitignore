@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# Ignorar arquivos de imagem gerados localmente (opcional, mas boa prática manter o repo leve)
+*.png
+# Manter o CSV de exemplo é bom, mas se for gigante, descomente abaixo:
+# *.csv
