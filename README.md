@@ -25,6 +25,9 @@ Um pipeline de Engenharia de Dados com foco em privacidade que realiza operaçõ
 
 ## 📦 Como Executar
 
+### ⚠️ Pré-requisito
+Para que o modo anônimo funcione, você precisa ter o serviço **Tor** rodando na porta `9050` (padrão Linux/Mac) ou o **Tor Browser** aberto (porta `9150`).
+
 1. **Instalar Dependências:**
    `pip install -r requirements.txt`
 
